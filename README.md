@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshankochar22" alt="darshankochar22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/darshankochar22" target="blank"><img src="https://img.shields.io/twitter/follow/darshankochar22?logo=twitter&style=for-the-badge" alt="darshankochar22" /></a> </p>
+- 🤝 4x Hackathon Winner
 
 - 🔭 I’m currently working on pyTorch, Langgraph as welll as Agents from scratch **GitGraphium**
 
