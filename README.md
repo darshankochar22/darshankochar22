@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on pyTorch, Langgraph as welll as Agents from scratch **GitGraphium**
   
--  🤝 5x Hackathon Winner
+-  🤝 6x Hackathon Winner
 
 - 🌱 I’m currently learning **AWS Cloud VM**
 
